@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">People-RxFlux</string>
+    <string name="transitionName">transition name</string>
+</resources>
