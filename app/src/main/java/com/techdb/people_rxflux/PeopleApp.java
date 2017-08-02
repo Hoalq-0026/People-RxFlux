@@ -7,9 +7,6 @@ import com.techdb.people_rxflux.action.PeopleActionCreator;
 import com.techdb.rxflux.RxFlux;
 import com.techdb.rxflux.util.LogLevel;
 
-/**
- * Created by le.quang.hoa on 12/13/16.
- */
 
 public class PeopleApp extends Application {
     RxFlux mRxFlux;

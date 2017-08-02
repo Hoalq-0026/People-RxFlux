@@ -17,9 +17,6 @@ import com.bumptech.glide.Glide;
 import com.techdb.people_rxflux.R;
 import com.techdb.people_rxflux.model.People;
 
-/**
- * Created by le.quang.hoa on 12/13/16.
- */
 
 public class PeopleDetailActivity extends AppCompatActivity {
 

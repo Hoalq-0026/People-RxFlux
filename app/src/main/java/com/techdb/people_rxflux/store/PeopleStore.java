@@ -11,9 +11,6 @@ import com.techdb.rxflux.store.RxStoreChange;
 
 import java.util.ArrayList;
 
-/**
- * Created by le.quang.hoa on 12/13/16.
- */
 
 public class PeopleStore extends RxStore implements PeopleStoreInterface {
 

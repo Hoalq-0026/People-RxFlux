@@ -28,9 +28,6 @@ import com.techdb.rxflux.store.RxStoreChange;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by le.quang.hoa on 12/13/16.
- */
 
 public class PeopleActivity extends AppCompatActivity implements RxViewDispatch, PeopleAdapter.OnPeopleClickListener {
 

@@ -9,9 +9,6 @@ import com.techdb.rxflux.util.SubscriptionManager;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
-/**
- * Created by le.quang.hoa on 12/13/16.
- */
 
 public class PeopleActionCreator extends RxActionCreator implements Actions {
 

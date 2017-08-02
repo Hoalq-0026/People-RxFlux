@@ -15,9 +15,6 @@ import com.techdb.people_rxflux.model.People;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by le.quang.hoa on 12/13/16.
- */
 
 public class PeopleAdapter extends RecyclerView.Adapter<PeopleAdapter.PeopleViewHolder> {
 
