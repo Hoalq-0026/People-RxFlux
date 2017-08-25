@@ -2,7 +2,6 @@ package com.techdb.people_rxflux;
 
 import android.app.Application;
 import android.content.Context;
-
 import com.techdb.people_rxflux.action.PeopleActionCreator;
 import com.techdb.rxflux.RxFlux;
 import com.techdb.rxflux.util.LogLevel;

@@ -5,7 +5,6 @@ import com.techdb.rxflux.action.RxAction;
 import com.techdb.rxflux.action.RxActionCreator;
 import com.techdb.rxflux.dispatcher.Dispatcher;
 import com.techdb.rxflux.util.SubscriptionManager;
-
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 

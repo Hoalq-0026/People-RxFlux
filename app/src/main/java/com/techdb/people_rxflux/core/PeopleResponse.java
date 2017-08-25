@@ -2,7 +2,6 @@ package com.techdb.people_rxflux.core;
 
 import com.google.gson.annotations.SerializedName;
 import com.techdb.people_rxflux.model.People;
-
 import java.util.ArrayList;
 
 

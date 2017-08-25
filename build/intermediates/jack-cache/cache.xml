@@ -46,7 +46,7 @@
     <item
         jar="/Users/le.quang.hoa/Library/Android/sdk/platforms/android-25/android.jar"
         revision="25.0.1"
-        sha1="ee6109bffb77e2a8508a9faf3eceab577ca73709">
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
         <dex dex="/Users/le.quang.hoa/AndroidStudioProjects/People-RxFlux/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-5ab69c3016feab14a257d237f428c6a3a845dbde.jar" />
     </item>
     <item
@@ -76,7 +76,7 @@
     <item
         jar="/Users/le.quang.hoa/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
         revision="25.0.1"
-        sha1="f3d8ef56b30e630eb84718ee1b10a38b38c057c0">
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
         <dex dex="/Users/le.quang.hoa/AndroidStudioProjects/People-RxFlux/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-eb23e74419b7ad332b59a73ad4601b5623105c86.jar" />
     </item>
     <item

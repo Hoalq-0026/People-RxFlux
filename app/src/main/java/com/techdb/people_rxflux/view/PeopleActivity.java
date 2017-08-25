@@ -65,7 +65,6 @@ public class PeopleActivity extends AppCompatActivity implements RxViewDispatch,
             refresh();
         });
 
-
     }
 
     @Override
